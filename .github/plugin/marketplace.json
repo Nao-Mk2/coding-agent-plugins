@@ -1,0 +1,19 @@
+{
+  "name": "coding-agent-attachments",
+  "metadata": {
+    "description": "Plugins for coding agents",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "owner": {
+    "name": "Nao-Mk2"
+  },
+  "plugins": [
+    {
+      "name": "agentic-implement-review-loop",
+      "source": "agentic-implement-review-loop",
+      "description": "Implementation and code review loop orchestrated with GitHub Copilot CLI custom agents.",
+      "version": "0.1.0"
+    }
+  ]
+}
