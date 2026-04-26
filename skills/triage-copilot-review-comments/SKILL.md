@@ -1,6 +1,7 @@
 ---
 name: triage-copilot-review-comments
 description: 'Triage code reviews are created by GitHub Copilot coding agent to focus on critical issues while avoiding stylistic debates.'
+license: MIT
 ---
 # Triage code reviews
 

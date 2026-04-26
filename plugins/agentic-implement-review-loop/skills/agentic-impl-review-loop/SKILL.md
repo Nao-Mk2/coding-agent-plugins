@@ -1,6 +1,7 @@
 ---
 name: agentic-impl-review-loop
 description: 実装フェーズとレビューフェーズを custom agent で交互に回したいときに使う。ループを初期化し、メイン会話をオーケストレーターとして動かしながら、レビュー指摘が対応不要のみになるか最大イテレーション数に達するまで継続する。
+license: MIT
 user-invocable: true
 disable-model-invocation: false
 ---

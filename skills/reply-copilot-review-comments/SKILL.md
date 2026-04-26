@@ -1,6 +1,7 @@
 ---
 name: reply-copilot-review-comments
 description: 'Use when reviewing GitHub pull requests, unresolved review comments, current branch PR detection, discussion_r links in commit messages, and posting "{commit URL} で対応" replies.'
+license: MIT
 ---
 
 # Reply Copilot Review Comments
