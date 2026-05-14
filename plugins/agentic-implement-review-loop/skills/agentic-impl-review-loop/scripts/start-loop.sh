@@ -44,7 +44,8 @@ if [[ -f "$STATE_FILE" ]]; then
     echo "error: loop is already active: $STATE_FILE" >&2
     echo "cancel with: rm -f $STATE_FILE" >&2
 
-  exit 1
+    exit 1
+  fi
 fi
 
 mkdir -p "$STATE_DIR"
